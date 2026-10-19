@@ -1,0 +1,4 @@
+Invoice Number: INV-101
+Customer: Rahul Sharma
+Total Amount: 5000
+Currency: INR
